@@ -1,9 +1,6 @@
 Navinator
 =========
 
-[![Build Status](https://travis-ci.org/unstoppablecarl/navinator.png)](https://travis-ci.org/unstoppablecarl/navinator)
-[![Coverage Status](https://coveralls.io/repos/unstoppablecarl/navinator/badge.png?branch=master)](https://coveralls.io/r/unstoppablecarl/navinator?branch=master)
-
 **Navinator** is a php package for fexibly managing navigation data for views.
 
 Navinator is a light weight navigation tree helper providing simple collection and node classes designed to allow you to generate navigation tree data without complication.
@@ -11,12 +8,12 @@ Navinator is a light weight navigation tree helper providing simple collection a
 ## Installing
 
 - Install [Composer](http://getcomposer.org)
-- Add `unstoppablecarl/navinator` to your project's `composer.json` file:
+- Add `emoxie/navinator` to your project's `composer.json` file:
 
 ```json
 {
     "require": {
-        "unstoppablecarl/navinator": "1.*"
+        "emoxie/navinator": "1.*"
     }
 }
 ```
