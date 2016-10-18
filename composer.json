@@ -1,13 +1,13 @@
 {
-    "name": "unstoppablecarl/navinator",
+    "name": "emoxie/navinator",
     "description": "A php package for fexibly managing navigation template data.",
     "license": "MIT",
     "homepage": "https://github.com/unstoppablecarl/navinator",
     "keywords": ["navigation", "nav", "tree", "view"],
     "authors": [
         {
-            "name": "Carl Olsen",
-            "email": "unstoppablecarlolsen@gmail.com",
+            "name": "Chris Stone",
+            "email": "chris@emoxie.com",
             "role": "Developer"
         }
     ],
